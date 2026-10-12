@@ -44,4 +44,4 @@ HTML5 · CSS3 · JavaScript (ES6)
 ## Author
 
 **Nazanin Rahgozar** — [@Naznighty](https://github.com/Naznighty)
-# vanilla-js-stopwatch
+
