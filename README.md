@@ -2,6 +2,7 @@
 
 A minimal stopwatch built with pure HTML, CSS, and JavaScript. It shows time down to hundredths of a second and a circular progress ring that completes one lap every 60 seconds.
 
+🔗 **[Live Demo](https://naznighty.github.io/vanilla-js-stopwatch/)** 
 ## Features
 
 - Start, pause, resume, and reset
