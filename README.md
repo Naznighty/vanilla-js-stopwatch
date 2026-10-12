@@ -16,7 +16,7 @@ A minimal stopwatch built with pure HTML, CSS, and JavaScript. It shows time dow
 ## Getting Started
 
 ```bash
-git clone https://github.com/Naznighty/my-roadmap.git
+git clone [https://github.com/Naznighty/my-roadmap.git](https://github.com/Naznighty/vanilla-js-stopwatch.git)
 cd my-roadmap
 ```
 
